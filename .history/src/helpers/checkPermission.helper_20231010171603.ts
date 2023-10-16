@@ -1,0 +1,3 @@
+exclass Permission {
+
+}
