@@ -1,3 +1,0 @@
-exclass Permission {
-
-}
